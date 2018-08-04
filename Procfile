@@ -1,1 +1,1 @@
-web: gunicorn belly-button-charts.app:app
+web: gunicorn app:app
